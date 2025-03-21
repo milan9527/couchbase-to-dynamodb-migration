@@ -6,7 +6,7 @@ This project implements a data migration pipeline from Couchbase to Amazon Dynam
 
 - Java 11 or higher
 - Maven
-- Couchbase Server 7.6.6 running locally
+- Couchbase Server 7.6.5 running locally
 - Apache Flink 1.16.2
 - AWS account with DynamoDB access or DynamoDB Local
 
